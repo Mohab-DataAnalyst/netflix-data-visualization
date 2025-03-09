@@ -1,7 +1,7 @@
 
 ![Logo](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-# 🎬 Netflix Movies & TV Shows Analysis (Tableau)
+# 🎬 Netflix Movies & TV Shows Visualization (Tableau)
 This interactive Tableau dashboard explores the Netflix catalog, providing insights into content distribution, top genres, ratings, and trends over time. The dashboard is dynamic, allowing users to filter and interact with the data.
 
 
